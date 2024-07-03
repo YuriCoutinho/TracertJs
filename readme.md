@@ -40,11 +40,3 @@ Siga os passos abaixo para configurar e executar o projeto TracertJs:
     ```
 
 A aplicação irá iniciar e executar o traceroute para `google.com`, exibindo as informações relevantes no console.
-
-## Autoria
-
-Este projeto foi desenvolvido por Yuri Silva Coutinho.
-
----
-
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato.
